@@ -22,7 +22,7 @@ If it is useful to you, please cite our paper and ⭐️ our code.
 
 ## Prerequisites
 
-1. E$^3$MoP has been tested on **Ubuntu 20.04 with ROS Noetic**,  please run the following commands to install required dependencies:
+1. E3MoP has been tested on **Ubuntu 20.04 with ROS Noetic**,  please run the following commands to install required dependencies:
 
 ```bash
 $ sudo apt install ros-noetic-navigation ros-noetic-teb-local-planner
