@@ -16,7 +16,7 @@ To solve the autonomous navigation problem in complex environments, an  efficien
 
 **Related Paper**: [Paper on IEEE](https://ieeexplore.ieee.org/document/9627934)
 
-> J. Wen, X. Zhang, H. Gao, J. Yuan and Y. Fang, "E$^3$MoP: Efficient Motion  Planning Based on Heuristic-Guided Motion Primitives Pruning and Path  Optimization With Sparse-Banded Structure," in *IEEE Transactions on Automation Science and Engineering*, vol. 19, no. 4, pp. 2762-2775, Oct. 2022.
+> J. Wen, X. Zhang, H. Gao, J. Yuan and Y. Fang, "E3MoP: Efficient Motion  Planning Based on Heuristic-Guided Motion Primitives Pruning and Path  Optimization With Sparse-Banded Structure," in *IEEE Transactions on Automation Science and Engineering*, vol. 19, no. 4, pp. 2762-2775, Oct. 2022.
 
 If it is useful to you, please cite our paper and ⭐️ our code.
 
