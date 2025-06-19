@@ -51,7 +51,7 @@ One possible solution to compile errors is to compile and install the following 
 3. path_smoother_base
 4. ceres_path_smoother
 
-## Run E$^3$MoP
+## Run E3MoP
 
 ```bash
 source devel/setup.bash & roslaunch move_base_benchmark benchmark.launch 
