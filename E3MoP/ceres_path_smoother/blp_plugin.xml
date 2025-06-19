@@ -1,0 +1,7 @@
+<library path="lib/libceres_path_smoother">
+  <class name="ceres_path_smoother/CeresLocalPlannerROS" type="ceres_path_smoother::CeresLocalPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      An implementation of a soft-constrained local planner.
+    </description>
+  </class>
+</library>
