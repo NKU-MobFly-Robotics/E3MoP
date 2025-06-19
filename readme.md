@@ -1,8 +1,8 @@
 
 
-# E$^3$MoP
+# E3MoP
 
-To solve the autonomous navigation problem in complex environments, an  efficient motion planning approach **E$^3$MoP** is newly presented.  Considering the challenges from large-scale, partially unknown complex  environments, a three-layer motion planning framework is elaborately  designed, including global path planning, local path optimization, and  time-optimal velocity planning. Compared with existing approaches, the  novelty of this work is twofold: 1) a novel heuristic-guided pruning  strategy of motion primitives is proposed and fully integrated into the  state lattice-based global path planner to further improve the  computational efficiency of graph search, and 2) a new soft-constrained  local path optimization approach is proposed, wherein the sparse-banded  system structure of the underlying optimization problem is fully  exploited to efficiently solve the problem.
+To solve the autonomous navigation problem in complex environments, an  efficient motion planning approach **E3MoP** is newly presented.  Considering the challenges from large-scale, partially unknown complex  environments, a three-layer motion planning framework is elaborately  designed, including global path planning, local path optimization, and  time-optimal velocity planning. Compared with existing approaches, the  novelty of this work is twofold: 1) a novel heuristic-guided pruning  strategy of motion primitives is proposed and fully integrated into the  state lattice-based global path planner to further improve the  computational efficiency of graph search, and 2) a new soft-constrained  local path optimization approach is proposed, wherein the sparse-banded  system structure of the underlying optimization problem is fully  exploited to efficiently solve the problem.
 
 <p align="center">
  <img src="img/111.png" width = "400" height = "200" />
@@ -30,7 +30,7 @@ $ sudo apt install ros-noetic-navigation ros-noetic-teb-local-planner
 
 2. Please install Ceres solver following the official [installation tutorial](http://ceres-solver.org/installation.html).
 
-## Build E$^3$MoP
+## Build E3MoP
 
 Then simply clone and compile our package:
 
